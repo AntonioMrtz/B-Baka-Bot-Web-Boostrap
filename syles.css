@@ -1,0 +1,34 @@
+
+html{
+
+    scroll-behavior: smooth;
+    --main-bg-color: #7A7595;
+    --a:#474554;
+    --b:#F3ECFF;
+    --c:#AFA9CB;
+    --d:#00C898;
+
+}
+
+body{
+
+   background-color: var(--c);
+
+}
+
+.img_nav{
+
+    width: 50px;
+    height: 50px;
+    
+}
+
+.btn{
+
+    border-color: white;
+}
+
+.btn-outline-success:hover{
+
+    background-color: white;
+}
