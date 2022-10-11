@@ -4,7 +4,7 @@ html{
     scroll-behavior: smooth;
     --main-bg-color: #7A7595;
     --a:#474554;
-    --b:#F3ECFF;
+    --blanco:#F3ECFF;
     --c:#AFA9CB;
     --d:#00C898;
 
@@ -25,10 +25,40 @@ body{
 
 .btn{
 
-    border-color: white;
+    border-color: var(--blanco);
 }
 
 .btn-outline-success:hover{
 
-    background-color: white;
+    background-color: var(--blanco);
+}
+
+
+navbar-toggler-icon{
+    background-color: var(--blanco);
+}
+
+.rows{
+
+    max-width: 90%;
+}
+
+.container{
+
+    margin-top: 2.5%;
+    max-width: 60%;
+}
+
+.card{
+
+    align-items: center;
+}
+
+.card-img-top{
+
+    max-width: 70%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+
+
 }
