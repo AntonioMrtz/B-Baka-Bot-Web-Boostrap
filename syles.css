@@ -62,3 +62,43 @@ navbar-toggler-icon{
 
 
 }
+
+.carousel-item active{
+
+    margin: auto;
+}
+
+.d-block{
+
+    width: 100vh !important;
+    height: 85vh;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.card-img-top{
+
+}
+
+
+.card{
+
+    background-color: var(--blanco);
+}
+
+
+.card-body{
+
+    padding-left: 10%  !important;
+    padding-right: 10%  !important;
+    padding-bottom: 5%  !important;
+}
+
+h2{
+
+    text-align: center  !important;
+    display: block;
+    font-weight: bold;
+}
