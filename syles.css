@@ -177,7 +177,7 @@ navbar-toggler-icon {
 }
 
 
-#tech div.row{ /* ! CAMBIAR PARA FOOTER */
+#tech div.row{ 
 
     background-color: var(--headers);
     border-radius: 15px;
