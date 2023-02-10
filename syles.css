@@ -74,7 +74,6 @@ navbar-toggler-icon {
 
     height: 200px;
     width: 200px;
-    resize: 10%;
 }
 
 .carousel-item img {
@@ -191,4 +190,19 @@ navbar-toggler-icon {
 .how-section1 .subheading{
 
     color: var(--d);
+}
+
+
+@media (max-width:1038px){
+
+
+/*     .how-img{
+
+        order: 2;
+    } */
+
+    .prueba{
+        order: 1;
+    }
+
 }
