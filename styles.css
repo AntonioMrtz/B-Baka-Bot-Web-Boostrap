@@ -292,6 +292,15 @@ navbar-toggler-icon {
     opacity: 1;
 }
 
+@media (min-width:990px) {
+
+.nav-item:hover{
+
+    background-color: #00C898;
+    border-radius: 15px;
+}
+
+}
 
 @media (max-width:990px) {
 
